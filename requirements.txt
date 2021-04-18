@@ -1,3 +1,4 @@
-pip install mendeleev
-import numpy as np
-from mendeleev import element
+numpy==1.20.0
+matplotlib==3.4.1
+mendeleev==0.7.0
+bokeh==2.3.1
