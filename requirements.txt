@@ -1,0 +1,3 @@
+pip install mendeleev
+import numpy as np
+from mendeleev import element
